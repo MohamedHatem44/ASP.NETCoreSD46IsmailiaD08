@@ -1,0 +1,6 @@
+﻿1- Order Service
+2- Payment Service
+3- Order Repository
+4- Email Service
+
+5- Class Level variables
